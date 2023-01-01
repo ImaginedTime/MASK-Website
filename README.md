@@ -5,9 +5,9 @@ Name - Uday om Srivastava
 
 Roll no. - 22ME30072
 
-Discord - 
+Discord - Imagine Time#5125
 
-My AnimeList - 
+My AnimeList - https://myanimelist.net/profile/Imagine_Time
 
 ## Task Done:
 The pages that I have done are, ***The main page, The art page, and The Our Society page*** in the about menu.
@@ -19,3 +19,8 @@ The project though was quite enjoyable to do. I learnt some new things out of it
 >I have fever from about 7 days by now, so I just did what I can.
 I was bedridden, but whenever,  I was feeling not so ill, I tried to work on the project, so please forgive me for the discrepancies in the project.
 I did not get enough time to make stuff responsive, though I tried my best.
+
+
+
+>Don't mind the number of anime and manga I've marked as read or watched, as I have watched much much more than that. It's just that I didn't get the time to do so.
+But I can guarantee you that I have watched much much more than that. You can easily guess that as I have watched all of the Big Fours.
