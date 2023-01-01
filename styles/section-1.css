@@ -1,0 +1,77 @@
+.section-1{
+    color: white;
+    font-family: sans-serif;
+    width: 80vw;
+    margin: 60px auto;
+    display: grid;
+    grid-template-areas: "heading heading heading heading heading heading heading"
+                        "updates updates contents contents contents contents contents"
+                        "updates updates contents contents contents contents contents";
+    row-gap: 30px;
+    column-gap: 100px;
+}
+
+.section-1 .section-1-welcome{
+    grid-area: heading;
+    background-color: none;
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 10px;
+}
+
+.section-1 .section-1-updates{
+    grid-area: updates;
+    margin: 10px;
+    width: 200px;
+    height: 180px;
+    text-align: center;
+    border-radius: 5px;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+
+    border: 1px solid white;
+}
+
+.section-1-updates::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+
+.section-1 .section-1-updates h3{
+    padding: 7px;
+    background-color: #d61f35;
+}
+
+.section-1 .section-1-updates .updates-content div{
+    padding: 5px;
+    background-color: #444444;
+    /* margin-bottom: 2px; */
+}
+
+.section-1 .section-1-updates .updates-content div:first-child sup{
+    color: #d61f35;
+    font-size: 0.6rem;
+    font-weight: 600;
+}
+
+.section-1 .section-1-intro{
+    grid-area: contents;
+    background-color: #ffffff33;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 70px 20px 70px; 
+    font-size: 1.2rem;
+    border-radius: 20px;
+}
+
+.section-1 .section-1-intro .section-1-intro-content{
+    color: #a9a9a9;
+    text-align: justify;
+}
+
+.separator{
+    width: 80vw;
+    margin: auto;
+}

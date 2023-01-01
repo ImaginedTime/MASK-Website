@@ -1,0 +1,27 @@
+.section-3{
+    margin: 70px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-3 div{
+    background-color: rgba(255, 255, 255, .07);
+    width: 150px;
+    height: 70px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.section-3 div a{
+    color: #6d6d6d;
+    transition: 0.2s ease;
+}
+
+.section-3 div a:hover{
+    color: white;
+}
